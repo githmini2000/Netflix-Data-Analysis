@@ -34,9 +34,9 @@ This project analyzes Netflix content data to understand ratings, top directors 
 - Bar charts for sentiment analysis
 
 ## Project Folder Structure
-Netflix-Data-Analysis/
-├── data/
-│ └── netflix_titles.csv
-├── notebooks/
-│ └── netflix_analysis.ipynb
-└── README.md
+- Netflix-Data-Analysis/
+  - data/
+    - netflix_titles.csv
+  - notebooks/
+    - netflix_analysis.ipynb
+  - README.md
